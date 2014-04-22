@@ -1,4 +1,4 @@
-!ArduinoISP firwmare sources:
+ArduinoISP firwmare sources:
  
 To compile sources you need avr-gcc (the binary files provided are compiled with avr-gcc 4.5.3).
 
