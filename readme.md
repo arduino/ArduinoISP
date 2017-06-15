@@ -1,4 +1,4 @@
-ArduinoISP firwmare sources:
+ArduinoISP firmware sources:
  
 To compile sources you need avr-gcc (the provided binary files are compiled with avr-gcc 4.5.3).
 
